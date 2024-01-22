@@ -1,1 +1,1 @@
-This repository is about Typescript as part of the training project toward ALX FULL STACK SOFTWARE ENGINEERING
+This repository contains projects about Typescript concepts
