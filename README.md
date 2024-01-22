@@ -1,1 +1,1 @@
-This is a repository containg project specifically for backend using node
+This repository contains javascript projects specifically for backend using node
